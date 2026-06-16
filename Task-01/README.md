@@ -43,3 +43,28 @@ House Prices Dataset (train.csv)
 
 ## Conclusion
 The Linear Regression model was successfully trained to predict house prices. The model achieved an R² score of approximately 0.63, showing a moderate prediction performance.
+## Screenshots
+
+### Dataset Overview
+
+![Dataset Overview](Screenshot%202026-06-06%20160013.png)
+
+### Dataset Shape and Features
+
+![Dataset Shape](Screenshot%202026-06-06%20160313.png)
+
+### Training and Testing Data
+
+![Training Data](Screenshot%202026-06-06%20160605.png)
+
+### Model Output
+
+![Model Output](Screenshot%202026-06-06%20160723.png)
+
+### R² Score
+
+![R2 Score](Screenshot%202026-06-06%20160846.png)
+
+### Actual vs Predicted House Prices
+
+![Prediction Graph](Screenshot%202026-06-06%20161142.png)

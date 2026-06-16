@@ -73,6 +73,46 @@ Low Income + High Spending
 
 K-Means Clustering successfully segmented customers into five groups based on their spending behavior and income levels. These insights can help businesses improve customer targeting, marketing strategies, and overall decision-making.
 
-## Author
+# Customer Segmentation using K-Means Clustering
 
-Charan Mirthipati
+## Project Overview
+
+This project groups retail store customers into different segments using K-Means Clustering based on their Annual Income and Spending Score.
+
+## Screenshots
+
+### 1. Source Code
+
+![Source Code](Screenshot%202026-06-16%20150725.png)
+
+### 2. Dataset Analysis
+
+![Dataset Analysis](Screenshot%202026-06-16%20151410.png)
+
+### 3. Elbow Method
+
+![Elbow Method](Screenshot%202026-06-16%20151422.png)
+
+### 4. Program Output
+
+![Program Output](Screenshot%202026-06-16%20151737.png)
+
+### 5. Customer Segmentation Result
+
+![Customer Segmentation](Screenshot%202026-06-16%20151826.png)
+
+### 6. Management Dashboard
+
+![Management Dashboard](Screenshot%202026-06-16%20152226.png)
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Scikit-Learn
+- K-Means Clustering
+
+## Outcome
+
+Successfully segmented customers into 5 clusters and generated business insights for management decision-making.
